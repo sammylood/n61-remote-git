@@ -1,3 +1,3 @@
-// Auteur : Jonathan Martel
+// Auteur : Samuel Dorneval
 console.log("test")
 
